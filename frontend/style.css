@@ -3,4 +3,7 @@ html, body {
     padding: 0;
     height: 100%;
 }
-
+#simulator-canvas{
+    background-image:url(bac.png);
+    background-size:cover;
+}
